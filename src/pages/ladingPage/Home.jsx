@@ -1,11 +1,11 @@
 import { Container } from "react-bootstrap";
-import HeroPage from "../../Components/HeroPage";
+import Hero from "../../Components/HeroPage";
 
 const Home = () => {
   return (
     <div>
       <Container>
-        <HeroPage />
+        <Hero />
       </Container>
     </div>
   );

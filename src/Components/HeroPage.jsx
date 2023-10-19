@@ -4,7 +4,7 @@ import HeroImg from "../assets/HeroImage.png"
 import { Link } from "react-router-dom";
 
 
-const HeroPage = () => {
+const Hero = () => {
   return (
     <div className="Container hero-sec mt-5">
       <div>
@@ -24,4 +24,4 @@ const HeroPage = () => {
   );
 };
 
-export default HeroPage;
+export default Hero;
