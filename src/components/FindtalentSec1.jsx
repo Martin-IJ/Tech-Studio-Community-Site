@@ -4,7 +4,7 @@ import dot from "../assets/dot.svg";
 import can from "../assets/can.svg";
 import frame from "../assets/Frame.svg";
 import layer from "../assets/Layer.svg";
-import "../pages/find talent/style.css"
+import "../pages/findTalent/style.css"
 import Loader from "../Components/Loader"
 
 const FindtalentSec1 = ({ SetJobPosterData }) => {

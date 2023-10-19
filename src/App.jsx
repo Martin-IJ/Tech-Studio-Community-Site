@@ -1,8 +1,8 @@
 import JobRequirements from './pages/JobRequirements'
 import "./App.css";
 import { Route, BrowserRouter as Router, Routes } from 'react-router-dom'
-import Home from './pages/lading page/Home'
-import Talent from './pages/find talent/Talent'
+import Home from './pages/ladingPage/Home'
+import Talent from './pages/findTalent/Talent'
 import { useState } from 'react';
 import Login from "./components/Login";
 import GuestSignUp from "./components/GuestSignUp";
